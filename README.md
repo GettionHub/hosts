@@ -11,7 +11,7 @@ CDN Url: https://cdn.staticaly.com/gh/GettionHub/hosts/main/hosts    (推荐)
 ## Used  
 Windows/MacOS:  
 ```
-推荐使用 SwitchHosts, 官网查看：https://swh.app/zh
+推荐使用 [SwitchHosts](https://github.com/oldj/SwitchHosts)
 ```
 ![image](https://user-images.githubusercontent.com/5615843/187586697-201b444c-1a3b-486a-867d-5fff9e63a4b2.png)
 
@@ -20,7 +20,7 @@ Linux:
 # 删除
 sudo sed -i '/# ING Hosts Start/,/# ING Hosts End/d' /etc/hosts
 # 添加
-curl -s -k -L https://raw.githubusercontent.com/wjz304/hosts/main/hosts | sudo tee -a /etc/hosts
+curl -s -k -L https://raw.githubusercontent.com/GettionHub/hosts/main/hosts | sudo tee -a /etc/hosts
 # 重启网络
 /etc/init.d/network restart
 ```
