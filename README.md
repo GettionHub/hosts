@@ -10,9 +10,9 @@ CDN Url: https://cdn.staticaly.com/gh/GettionHub/hosts/main/hosts    (推荐)
 
 ## Used  
 Windows/MacOS:  
-```
-推荐使用 [SwitchHosts：](https://github.com/oldj/SwitchHosts)
-```
+
+推荐使用 [SwitchHosts](https://github.com/oldj/SwitchHosts)
+
 ![image](https://user-images.githubusercontent.com/5615843/187586697-201b444c-1a3b-486a-867d-5fff9e63a4b2.png)
 
 Linux:
