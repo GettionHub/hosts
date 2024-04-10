@@ -5,8 +5,8 @@
 
 hosts Url:   
 Raw Url: https://raw.githubusercontent.com/GettionHub/hosts/main/hosts  
-CDN Url: https://gcore.jsdelivr.net/gh/GettionHub/hosts@main/hosts  
-CDN Url: https://cdn.staticaly.com/gh/GettionHub/hosts/main/hosts    (推荐)  
+CDN Url: https://gcore.jsdelivr.net/gh/GettionHub/hosts@main/hosts     (推荐)  
+CDN Url: https://cdn.staticaly.com/gh/GettionHub/hosts/main/hosts
 
 ## Used  
 Windows/MacOS:  
